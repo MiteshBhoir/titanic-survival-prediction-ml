@@ -94,7 +94,7 @@ Additionally, **5-Fold Cross Validation** was used to evaluate model performance
 ```
 titanic-survival-prediction-ml
 │
-├── titanic_ml.ipynb
+├── titanic.ipynb
 ├── README.md 
 
 ```
